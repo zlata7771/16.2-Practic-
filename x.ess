@@ -1,0 +1,5 @@
+start
+new x number
+set x 2+2+2
+log string " x = " >> x
+finish
