@@ -1,0 +1,5 @@
+start
+new age number
+set age 17
+log string "Hello, Zlata " >> age
+finish
